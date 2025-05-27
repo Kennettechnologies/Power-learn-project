@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Inventory Management System
 
 A comprehensive inventory management system built with Python and MySQL that helps businesses track, manage, and optimize their inventory operations.
@@ -85,3 +86,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
+=======
+# Power-learn-project
+>>>>>>> 93506dce9837984878529708078622be24728217
